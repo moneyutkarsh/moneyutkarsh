@@ -1,4 +1,4 @@
-# Namaste! I'm Utkarsh Dubey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# HELLO! I'm Utkarsh Dubey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F87F7&center=true&vCenter=true&width=435&lines=CSE+Undergraduate;Data+Structures+and+Algorithms;Frontend+Developer;GenAI+Enthusiast" alt="Typing SVG" />
@@ -6,9 +6,9 @@
 
 ## About Me 🚀
 
-I'm a computer science undergraduate at **M.S. [cite_start]Ramaiah Institute of Technology, Bengaluru**, with a strong academic record (GPA: 9.14/10.0)[cite: 9, 11]. [cite_start]With a solid foundation in data structures and algorithms, I have hands-on experience in frontend web development[cite: 6]. [cite_start]I'm currently seeking a software development internship to apply my problem-solving skills and contribute to building scalable web solutions[cite: 7].
+I'm a computer science undergraduate at **M.S. [cite_start]Ramaiah Institute of Technology, Bengaluru**, with a strong academic record (GPA: 9.14/10.0).With a solid foundation in data structures and algorithms, I have hands-on experience in frontend web development. I'm currently seeking a software development internship to apply my problem-solving skills and contribute to building scalable web solutions.
 
-[cite_start]I have a strong interest in emerging technologies and recently gained practical experience in applying **GenAI models** to analyze and reason over diverse inputs, including text and images[cite: 19]. [cite_start]I also have a skill badge for building generative AI applications using Google Cloud's Gemini models[cite: 20, 23].
+I have a strong interest in emerging technologies and recently gained practical experience in applying **GenAI models** to analyze and reason over diverse inputs, including text and images. I also have a skill badge for building generative AI applications using Google Cloud's Gemini models.
 
 ---
 
@@ -53,10 +53,10 @@ I'm a computer science undergraduate at **M.S. [cite_start]Ramaiah Institute of 
 
 <div align="left">
 - <b>Event Discovery Platform Full Stack Web App</b> (Frontend Completed)
-  - [cite_start]Developed and deployed a responsive frontend on Vercel for discovering and saving technical events[cite: 32, 33].
-  - [cite_start]Designed interactive UI components, including event cards and a gallery section, using **React.js** and **Tailwind CSS**[cite: 34, 37].
-  - [cite_start]Currently integrating **AI-powered event recommendations** and a chatbot assistant using APIs[cite: 35].
-  - [cite_start]Working on the backend with **Node.js**, **Express**, and **MongoDB**[cite: 36].
+  - Developed and deployed a responsive frontend on Vercel for discovering and saving technical events.
+  - Designed interactive UI components, including event cards and a gallery section, using **React.js** and **Tailwind CSS**.
+  - Currently integrating **AI-powered event recommendations** and a chatbot assistant using APIs.
+  - Working on the backend with **Node.js**, **Express**, and **MongoDB**.
   - **Live Demo:** [event-lens.vercel.app](https://event-lens.vercel.app)
 </div>
 
