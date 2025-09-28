@@ -25,7 +25,7 @@ I have a strong interest in emerging technologies and recently gained practical 
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
   <a href="https://www.credly.com/users/utkarsh-dubey/badges" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-2F4D63?style=for-the-badge&logo=credly&logoColor=white" alt="credly"/>
+    <img src="https://www.credly.com/users/utkarsh-dubey.f3d5c143"&logoColor=white" alt="credly"/>
   </a>
 </div>
 
