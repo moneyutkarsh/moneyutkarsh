@@ -57,7 +57,7 @@ I have a strong interest in emerging technologies and recently gained practical 
   - Designed interactive UI components, including event cards and a gallery section, using **React.js** and **Tailwind CSS**.
   - Currently integrating **AI-powered event recommendations** and a chatbot assistant using APIs.
   - Working on the backend with **Node.js**, **Express**, and **MongoDB**.
-  - **Live Demo:** [event-lens.vercel.app](https://event-lens.vercel.app)
+  - **Live Demo:** [event-lens.vercel.app](https://event-lens-lake.vercel.app/)
 </div>
 
 ---
