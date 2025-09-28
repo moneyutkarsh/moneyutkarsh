@@ -1,18 +1,18 @@
 # Hi There! I am Utkarsh Dubey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F87F7&center=true&vCenter=true&width=435&lines=Undergrad+in+CSE+%28Cyber+Security%29;CGPA+9.14;DSA+Enthusiast;MERN+Stack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F87F7&center=true&vCenter=true&width=435&lines=Undergrad+in+CSE+%28Cyber+Security%29;GPA+9.14;DSA+Enthusiast;Frontend+Web+Developer" alt="Typing SVG" />
 </div>
 
 ## About Me 🚀
 
-🌱 I'm currently learning **DSA, Cyber Security, and MERN stack**  
+🎓 I'm a Computer Science Engineering (Cyber Security) undergraduate at M.S. [cite_start]Ramaiah Institute of Technology, Bengaluru [cite: 9, 10, 2][cite_start], with a GPA of 9.14/10.0[cite: 11].
 
-🎓 Branch: **CSE (Cyber Security)** | CGPA: **9.14**  
+[cite_start]💻 I have a solid foundation in data structures and algorithms and practical experience in frontend web development[cite: 6]. [cite_start]I'm currently learning the MERN stack to build scalable web solutions and am seeking a software development internship to apply my problem-solving skills[cite: 7].
 
-📫 How to reach me: **moneyutkarsh@gmail.com**  
+🌱 I'm passionate about building cool projects and exploring new technologies. [cite_start]I recently earned certifications in developing GenAI apps with Gemini and Streamlit, and analyzing multimodal data with Gemini[cite: 13, 19, 20, 23].
 
-⚡ Fun fact: I love building cool projects, exploring AI/ML, and learning new tech every day.  
+[cite_start]📫 How to reach me: moneyutkarsh@gmail.com [cite: 5]
 
 ---
 
@@ -38,29 +38,28 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
 </div>
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Project
 
 <div align="left">
-- <b>Project 1:</b> *Brief description here* - [Repo Link](#)  
-- <b>Project 2:</b> *Brief description here* - [Repo Link](#)  
-- <b>Project 3:</b> *Brief description here* - [Repo Link](#)  
+- <b>Event Discovery Platform Full Stack Web App</b> (Frontend Completed)
+  - [cite_start]A responsive React.js frontend deployed on Vercel for discovering and saving technical events[cite: 32, 33].
+  - [cite_start]Designed interactive UI components with **React.js**, **Tailwind CSS**, and **Framer Motion**[cite: 34, 37].
+  - [cite_start]Currently working on integrating **AI-powered event recommendations** and a chatbot assistant using APIs[cite: 35].
+  - [cite_start]Developing the backend with **Node.js**, **Express**, and **MongoDB**[cite: 36].
+  - [cite_start]**Live Demo:** [event-lens.vercel.app](https://event-lens.vercel.app) [cite: 32]
 </div>
 
 ---
