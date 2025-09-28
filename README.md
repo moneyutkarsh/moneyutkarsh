@@ -28,9 +28,6 @@
   <a href="https://leetcode.com/u/money_utkarsh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
-  <a href="https://codeforces.com/profile/your-codeforces" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/>
-  </a>
 </div>
 
 ---
