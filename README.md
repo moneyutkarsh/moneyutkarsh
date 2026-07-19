@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F87F7,100:0e75b6&height=200&section=header&text=Utkarsh%20Dubey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Research%20Intern%20@%20Samsung%20R%26D%20|%20Backend%20&%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F87F7,100:0e75b6&height=200&section=header&text=Utkarsh%20Dubey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Research%20Intern%20%40%20Samsung%20R%26D%20%7C%20Backend%20%26%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F87F7&center=true&vCenter=true&width=700&lines=Research+Intern+%40+Samsung+R%26D;Backend+%7C+Systems+%7C+AI+Engineer;Building+Scalable%2C+Real-Time+Systems;300%2B+DSA+Problems+Solved+on+LeetCode" alt="Typing SVG" />
 
@@ -162,10 +162,10 @@ I build **production-grade backend systems, AI/RAG platforms, and real-time secu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moneyutkarsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=moneyutkarsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moneyutkarsh&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moneyutkarsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=moneyutkarsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moneyutkarsh&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="90%"/>
 
@@ -174,16 +174,16 @@ I build **production-grade backend systems, AI/RAG platforms, and real-time secu
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moneyutkarsh&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moneyutkarsh&theme=tokyonight&no-frame=true&column=7" />
 </div>
 
 ## 🐍 Contribution Snake
 
+> 🔧 *This image stays broken until you run the one-time GitHub Actions setup below — it needs the `output` branch to exist first, which the `snake.yml` workflow creates automatically the first time it runs.*
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/moneyutkarsh/moneyutkarsh/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
-
-> 🔧 *Snake animation requires a one-time GitHub Actions setup — see the `snake.yml` workflow included alongside this README. Once enabled, it auto-generates daily from your real contribution graph.*
 
 ---
 
