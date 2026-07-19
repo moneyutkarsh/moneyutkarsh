@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F87F7,100:0e75b6&height=200&section=header&text=Utkarsh%20Dubey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Research%20Intern%20%40%20Samsung%20R%26D%20%7C%20Backend%20%26%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/moneyutkarsh/moneyutkarsh/main/assets/banner-header.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F87F7&center=true&vCenter=true&width=700&lines=Research+Intern+%40+Samsung+R%26D;Backend+%7C+Systems+%7C+AI+Engineer;Building+Scalable%2C+Real-Time+Systems;300%2B+DSA+Problems+Solved+on+LeetCode" alt="Typing SVG" />
 
@@ -174,7 +174,7 @@ I build **production-grade backend systems, AI/RAG platforms, and real-time secu
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moneyutkarsh&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://raw.githubusercontent.com/moneyutkarsh/moneyutkarsh/main/assets/trophy.svg" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -195,6 +195,6 @@ I build **production-grade backend systems, AI/RAG platforms, and real-time secu
 
 ⭐ *"I build systems, not just apps."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:3F87F7&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/moneyutkarsh/moneyutkarsh/main/assets/banner-footer.svg" width="100%"/>
 
 </div>
